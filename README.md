@@ -9,5 +9,7 @@ The pdf worksheets describe the steps in building the circuit and programming th
 The device connects to the web to play musical tones, based on readings from the potentiometer and ultrasonic range finder: connect to the device using this site:
 https://mitchbryson.github.io/arduino_musical_instrument/music.html
 
+You can also download the file "browser_code.zip", unzip the file and run "index.html" with your browser to run.
+
 You can watch a video demo of the final project here:
 https://youtu.be/zA7D9ob0Kw4
